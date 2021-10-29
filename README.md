@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brodri
-- 👀 I’m interested in MEAN Stack and FrontEnd developing
+- 👀 I’m interested in MERN Stack and FrontEnd developing
 - 🌱 I’m currently learning Express.js and docker
 
 <!---
